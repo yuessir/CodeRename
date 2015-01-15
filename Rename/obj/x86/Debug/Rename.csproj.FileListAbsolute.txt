@@ -1,0 +1,17 @@
+C:\Users\FOCUS1921\Desktop\Rename\Rename\bin\Debug\Rename.exe
+C:\Users\FOCUS1921\Desktop\Rename\Rename\bin\Debug\Rename.pdb
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\Rename.Form1.resources
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\Rename.Properties.Resources.resources
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\Rename.exe
+C:\Users\FOCUS1921\Desktop\Rename\Rename\obj\x86\Debug\Rename.pdb
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.exe
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.pdb
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\bin\Debug\Rename.exe
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\bin\Debug\Rename.pdb
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.Form1.resources
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Renamesourcecode\Rename\Rename\obj\x86\Debug\Rename.csprojResolveAssemblyReference.cache
